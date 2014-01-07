@@ -46,6 +46,7 @@
 /home/Workspace/test/my-app/platforms/android/assets/www/lib/angular-route.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/lib/angular-1.2.0-rc3.min.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/lib/angular-1.2.0-rc3.js \
+/home/Workspace/test/my-app/platforms/android/assets/www/lib/phonegap-nfc.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/lib/angular-route.min.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/res/screen \
 /home/Workspace/test/my-app/platforms/android/assets/www/res/icon \
@@ -112,7 +113,6 @@
 /home/Workspace/test/my-app/platforms/android/assets/www/css/bootstrap.min.css \
 /home/Workspace/test/my-app/platforms/android/assets/www/partials/oneplayer.html \
 /home/Workspace/test/my-app/platforms/android/assets/www/partials/main.html \
-/home/Workspace/test/my-app/platforms/android/assets/www/partials/twoplayer.html \
 /home/Workspace/test/my-app/platforms/android/assets/www/img/bg-3.png \
 /home/Workspace/test/my-app/platforms/android/assets/www/img/bua-btn-c.png \
 /home/Workspace/test/my-app/platforms/android/assets/www/img/keo_500x500.png \

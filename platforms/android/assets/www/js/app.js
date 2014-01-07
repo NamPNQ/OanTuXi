@@ -14,7 +14,7 @@ angular.module('App', ['ngRoute', 'App.services', 'App.controllers'])
         })
         .when('/player-player', {
             controller: 'TwoPlayerCtrl',
-            templateUrl: 'partials/twoplayer.html'
+            templateUrl: 'partials/oneplayer.html'
         })
         .otherwise({
             redirectTo: '/'

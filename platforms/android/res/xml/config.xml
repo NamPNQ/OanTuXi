@@ -12,12 +12,12 @@
     <feature name="NfcPlugin">
         <param name="android-package" value="com.chariotsolutions.nfc.plugin.NfcPlugin" />
     </feature>
-    <name>HelloWorld</name>
+    <name>Oan Tu Xi</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Game Oan Tu Xi
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="nampnq@gmail.com" href="http://nampnq.vietnamcode.info">
+        NamPNQ, VinhNS
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
@@ -59,6 +59,7 @@
     <gap:splash gap:platform="ios" height="1024" src="res/screen/ios/screen-ipad-portrait.png" width="768" />
     <gap:splash gap:platform="ios" height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
+    <plugin name="NfcPlugin" value="com.chariotsolutions.nfc.plugin.NfcPlugin" />
     <access origin="http://127.0.0.1*" />
     <content src="index.html" />
 </widget>
