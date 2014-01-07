@@ -1,0 +1,32 @@
+body {
+    padding-top: 50px;
+}
+.bua-one-player, .keo-one-player, .bao-one-player, .random-one-player {
+    position: fixed;
+    bottom: 30px;
+}
+.bua-one-player {
+    left: 140px;
+}
+.keo-one-player{
+	left: 250px;
+}
+.bao-one-player{
+	right: 200px;
+}
+.random-one-player{
+	right: 90px;
+}
+.result-player1, .result-player2
+{
+	position: fixed;
+	bottom: 150px;
+	width: 250px;
+	height: 250px;
+}
+.result-player1{
+	left: 200px;
+}
+.result-player2{
+	right: 200px;
+}

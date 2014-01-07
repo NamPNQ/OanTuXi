@@ -1,0 +1,20 @@
+/home/Workspace/test/my-app/platforms/android/bin/classes.dex : \
+/home/Workspace/test/my-app/platforms/android/bin/classes/org/apache/cordova/api/Dummy.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$3.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$8.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$1.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$4.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$6.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$7.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/Util.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$2.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/NfcPlugin.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$5.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/phonegap/helloworld/R$string.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/phonegap/helloworld/R$drawable.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/phonegap/helloworld/R$xml.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/phonegap/helloworld/R.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/phonegap/helloworld/HelloWorld.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/phonegap/helloworld/R$attr.class \
+/home/Workspace/test/my-app/platforms/android/bin/classes/com/phonegap/helloworld/BuildConfig.class \
+/home/Workspace/test/my-app/platforms/android/bin/dexedLibs/classes-2bccf49a210e98183c6900d399964ec6.jar \
