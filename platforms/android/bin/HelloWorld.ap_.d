@@ -28,7 +28,12 @@
 /home/Workspace/test/my-app/platforms/android/assets/www/partials \
 /home/Workspace/test/my-app/platforms/android/assets/www/img \
 /home/Workspace/test/my-app/platforms/android/assets/www/cordova_plugins.js \
+/home/Workspace/test/my-app/platforms/android/assets/www/plugins/org.apache.cordova.dialogs \
 /home/Workspace/test/my-app/platforms/android/assets/www/plugins/com.chariotsolutions.nfc.plugin \
+/home/Workspace/test/my-app/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www \
+/home/Workspace/test/my-app/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android \
+/home/Workspace/test/my-app/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/notification.js \
+/home/Workspace/test/my-app/platforms/android/assets/www/plugins/org.apache.cordova.dialogs/www/android/notification.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/plugins/com.chariotsolutions.nfc.plugin/www \
 /home/Workspace/test/my-app/platforms/android/assets/www/plugins/com.chariotsolutions.nfc.plugin/www/phonegap-nfc.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/spec/helper.js \
@@ -46,7 +51,6 @@
 /home/Workspace/test/my-app/platforms/android/assets/www/lib/angular-route.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/lib/angular-1.2.0-rc3.min.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/lib/angular-1.2.0-rc3.js \
-/home/Workspace/test/my-app/platforms/android/assets/www/lib/phonegap-nfc.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/lib/angular-route.min.js \
 /home/Workspace/test/my-app/platforms/android/assets/www/res/screen \
 /home/Workspace/test/my-app/platforms/android/assets/www/res/icon \

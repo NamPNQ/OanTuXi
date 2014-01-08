@@ -19,4 +19,35 @@ angular.module('App.services', [])
                 };
             };
         }
-    ]);
+    ])
+    .factory('notification', function ($rootScope, cordovaReady) {
+        return {
+          alert: cordovaReady(function (message, alertCallback, title, buttonName) {
+            navigator.notification.alert(message, function () {
+              var that = this,
+                args = arguments;
+              
+              $rootScope.$apply(function () {
+                alertCallback.apply(that, args);
+              });
+            }, title, buttonName);
+          }),
+          confirm: cordovaReady(function (message, confirmCallback, title, buttonLabels) {
+            navigator.notification.confirm(message, function () {
+              var that = this,
+                args = arguments;
+              
+              $rootScope.$apply(function () {
+                confirmCallback.apply(that, args);
+              });
+            }, title, buttonLabels);
+          }),
+          beep: function (times) {
+            navigator.notification.beep(times);
+          },
+          vibrate: function (milliseconds) {
+            navigator.notification.vibrate(milliseconds);
+          }
+        };
+      });
+    ;
